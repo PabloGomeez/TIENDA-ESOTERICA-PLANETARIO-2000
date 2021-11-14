@@ -11,3 +11,10 @@ Nombre : Camilo Ospina Hernandez
 correo : kmi2000@live.com
 Rol Principal : Desarrollador
 Rol Secundario : Analista 
+
+
+Integrante 3:
+Nombre : Carlos Alfonso Junco Cárdenas
+correo : carfjun@gmail.com
+Rol Principal : Desarrollador
+Rol Secundario : Product Owner
