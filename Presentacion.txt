@@ -1,4 +1,8 @@
 Espacio para presentar los miembros del equipo TIENDA ESOTERICA PLANETARIO 2000
 
-
+Integrante 1:
+Nombre : Juan Pablo Gomez Vasquez
+correo : juanpablogv99@gmail.com
+Rol Principal : Desarrollador
+Rol Secundario : Scrum Master
 
