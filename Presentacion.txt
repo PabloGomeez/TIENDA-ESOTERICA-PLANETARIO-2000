@@ -6,3 +6,8 @@ correo : juanpablogv99@gmail.com
 Rol Principal : Desarrollador
 Rol Secundario : Scrum Master
 
+Integrante 2:
+Nombre : Camilo Ospina Hernandez
+correo : kmi2000@live.com
+Rol Principal : Desarrollador
+Rol Secundario : Analista 
