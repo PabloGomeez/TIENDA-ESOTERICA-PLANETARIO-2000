@@ -11,3 +11,9 @@ Nombre : Camilo Ospina Hernandez
 correo : kmi2000@live.com
 Rol Principal : Desarrollador
 Rol Secundario : Analista 
+
+Integrante 4:
+Nombre : Juan Camilo Ibarra Perez
+correo : jcamilo1001@hotmail.com
+Rol Principal : Desarrollador
+Rol Secundario : Administrador de BD
